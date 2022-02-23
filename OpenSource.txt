@@ -1,3 +1,8 @@
 Linux 
 Android 
 Mysql
+
+
+Pearl
+PHP
+Python
